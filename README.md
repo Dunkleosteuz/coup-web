@@ -120,7 +120,6 @@ copy .env.example .env
 
 # Database setup di Supabase
 # 1. Copy & jalankan: setup_database.sql
-# 2. Copy & jalankan: add_trash_column.sql
 
 # Run
 ./run.ps1
