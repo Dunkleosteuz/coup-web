@@ -315,11 +315,3 @@ docker-compose down
 Educational purposes - Aplikasi Perancangan Program Game, Semester 7
 
 ---
-
-<div align="center">
-
-**[Play Now!](#quick-start)** | **[Docs](GAME_LOGIC_UPDATES.md)** | **[Issues](https://github.com/Dunkleosteuz/coup-web/issues)**
-
-Made with ❤️ for Game Development Class
-
-</div>
