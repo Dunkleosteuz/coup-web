@@ -174,8 +174,6 @@ pip install -r requirements.txt
    SUPABASE_KEY=eyJhbGc... (anon key dari dashboard)
    ```
 
-   **DO NOT commit .env file!** (sudah di .gitignore)
-
 ### Step 4: Database Initialize
 
 1. Buka Supabase SQL Editor
