@@ -232,8 +232,6 @@ coup-web/
 ├── docker-compose.yml
 ├── requirements.txt
 ├── setup_database.sql       # DB schema
-├── add_trash_column.sql     # DB migration
-├── cleanup_database.sql     # Cleanup unused tables
 ├── run.ps1 / run.bat
 └── README.md
 ```
