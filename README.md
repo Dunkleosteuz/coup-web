@@ -128,9 +128,6 @@ copy .env.example .env
 
 **Buka:** http://localhost:3000
 
-> **⚠️ PENTING:** Setiap user harus punya akun Supabase sendiri!
-> File `.env` tidak di-commit (credentials aman di .gitignore)
-
 ---
 
 ## 📚 Instalasi Lengkap
