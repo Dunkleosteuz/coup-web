@@ -128,9 +128,6 @@ copy .env.example .env
 
 **Buka:** http://localhost:3000
 
-> **⚠️ PENTING:** Setiap user harus punya akun Supabase sendiri!
-> File `.env` tidak di-commit (credentials aman di .gitignore)
-
 ---
 
 ## 📚 Instalasi Lengkap
@@ -318,11 +315,3 @@ docker-compose down
 Educational purposes - Aplikasi Perancangan Program Game, Semester 7
 
 ---
-
-<div align="center">
-
-**[Play Now!](#quick-start)** | **[Docs](GAME_LOGIC_UPDATES.md)** | **[Issues](https://github.com/Dunkleosteuz/coup-web/issues)**
-
-Made with ❤️ for Game Development Class
-
-</div>
