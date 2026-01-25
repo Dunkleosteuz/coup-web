@@ -180,7 +180,6 @@ pip install -r requirements.txt
 
 1. Buka Supabase SQL Editor
 2. Jalankan: `setup_database.sql`
-3. Jalankan: `add_trash_column.sql`
 
 ### Step 5: Run Server
 
@@ -263,8 +262,6 @@ Response: `{ "session_id": "uuid", ... }`
 | POST   | `/api/game/action`    | Perform action    |
 | POST   | `/api/game/leave`     | Leave game        |
 | WS     | `/api/ws/{room_code}` | Real-time updates |
-
-Detail lengkap di [GAME_LOGIC_UPDATES.md](GAME_LOGIC_UPDATES.md)
 
 ---
 
