@@ -6,19 +6,6 @@
 
 > **Coup** adalah permainan kartu berbasis browser yang menampilkan gameplay real-time dengan 60-detik reaction windows, pilihan pemain untuk kartu yang akan dibuang, dan dukungan WebSocket lengkap. Sempurna untuk 2-6 pemain!
 
-## 🎮 Daftar Isi
-
-- [Fitur Utama](#fitur-utama)
-- [Cara Bermain](#cara-bermain)
-- [Quick Start](#quick-start)
-- [Instalasi Lengkap](#instalasi-lengkap)
-- [Struktur Project](#struktur-project)
-- [API Endpoints](#api-endpoints)
-- [Troubleshooting](#troubleshooting)
-- [Deployment](#deployment-docker)
-
----
-
 ## ✨ Fitur Utama
 
 ### 🎯 60-Second Reaction Windows
